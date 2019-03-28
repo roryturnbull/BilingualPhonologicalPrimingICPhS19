@@ -19,7 +19,7 @@ The lexicality of the French target: either "Word" or "Nonword"
 - similarity:
 The (supposed) phonological similarity between the prime and target: either "Match" or "NoMatch".
 
-Stimulus presentation lists.
+## Stimulus presentation lists
 
 list0.csv, list1.csv, list2.csv, and list3.csv are the stimulus files that were directly read by our PsychoPy script. Each file has seven columns:
 
